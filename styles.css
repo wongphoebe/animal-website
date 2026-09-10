@@ -5,3 +5,6 @@ body {
   background-color: lightblue;
   font-family: Arial, Helvetica, sans-serif
 }
+.profile-pic {
+  border: 5px solid black;
+}
